@@ -4,6 +4,7 @@ Production-hardened local MCP server for order resolution.
 
 Full documentation:
 - `docs/COMPLETE_APPLICATION_AND_API_GUIDE.md`
+- `docs/CLASS_METHOD_LIBRARY_EXPLAINED.md`
 
 ## Prerequisites
 
