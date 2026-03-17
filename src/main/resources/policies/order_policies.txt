@@ -1,0 +1,5 @@
+PROCESSING: Orders in processing can be cancelled within 30 minutes if payment is settled.
+SHIPPED: Shipped orders cannot be cancelled; offer return label after delivery.
+DELIVERED: Delivered orders are eligible for return within 14 days.
+PAYMENT_FAILED: Ask customer to retry payment or use another payment method.
+CANCELLED: Cancelled orders can be re-created as a new order only.

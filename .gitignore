@@ -1,0 +1,34 @@
+# Maven / Java build outputs
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Local Maven repository used in this workspace
+.m2/
+.mvn-home/
+
+# Logs
+logs/
+*.log
+
+# IDE / Editor
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / local overrides
+.env
+.env.*
+application-local.yml
+application-dev.yml
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
